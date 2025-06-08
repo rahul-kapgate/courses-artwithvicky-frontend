@@ -16,19 +16,3 @@ Welcome to **ArtIt**, a simple and modern platform offering curated art courses 
 - **Backend**: Node.js, Express, MongoDB
 - **Authentication**: JWT (Login / Signup)
 
-## 🚀 Getting Started
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/artit-courses.git
-cd artit-courses
-
-# Start frontend
-cd frontend
-npm install
-npm run dev
-
-# Start backend
-cd ../backend
-npm install
-npm start
